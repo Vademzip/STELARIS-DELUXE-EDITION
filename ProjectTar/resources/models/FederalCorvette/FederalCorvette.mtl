@@ -1,0 +1,62 @@
+# Blender 3.4.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Back
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Back_BaseColor.png
+map_Ke Back_Emissive.png
+
+newmtl Belly
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Belly_BaseColor.png
+map_Ke Belly_Emissive.png
+
+newmtl Core
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Core_BaseColor.png
+map_Ke Core_Emissive.png
+
+newmtl Front
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Front_BaseColor.png
+map_Ke Front_Emissive.png
+
+newmtl Sides
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Sides_BaseColor.png
+
+newmtl Wings_and_thrusters
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wings_and_thrusters_BaseColor.png
+map_Ke Wings_and_thrusters_Emissive.png

@@ -1,0 +1,16 @@
+﻿  Enemy.cpp
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Entity.h(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Entity.cpp
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Entity.h(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GenericShader.cpp
+  LightingShader.cpp
+  Main.cpp
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Entity.h(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Main.cpp(39,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ship.cpp
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Entity.h(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Ship.cpp(12,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Ship.cpp(13,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Ship.cpp(14,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\admin\source\repos\ProjectTar\ProjectTar\Ship.cpp(15,37): warning C4305: '-=': truncation from 'double' to 'float'
+LINK : fatal error LNK1181: cannot open input file 'C:\Users\admin\source\repos\ProjectTar\packages\raylib.4.2.0.2\build\native\lib\ARM\raylib.lib'
